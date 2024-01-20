@@ -154,6 +154,10 @@ https://github.com/DeumE-Shop/DeumE-Shop/assets/145524959/087bc6f0-0301-4eba-b46
 ## 🤐 개선 사항 🤐
 
 <details><summary>개선사항</summary>
+
+리뷰디테일화면 새로운창 말고 아래쪽의 영역이나 팝업창으로 구현
+수정 버그 수정
+ 
 <br/>
  
 
